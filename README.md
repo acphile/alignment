@@ -1,7 +1,7 @@
 # Fastest Subquadratic Alignment
 
 ## Usage
-* Explame commands are given in cmd.sh. Simply run the following command in the terminal:
+* Example commands are given in cmd.sh. Simply run the following command in the terminal:
 ```
 ./cmd.sh
 ```
